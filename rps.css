@@ -1,0 +1,45 @@
+body{
+  background-color:rgb(25,25,25);
+  color:white;
+}
+.title{
+  font-size: 30px;
+  font-weight: bold;
+
+}
+.icon{
+  height: 50px;
+  
+}
+.emojibtn{
+  color: rgb(25,25,25);
+  background-color: transparent;
+  border: 3px solid white;
+  border-radius: 60px;
+  width: 100px;
+  height:100px;
+  margin-right: 10px;
+  cursor: pointer;  
+}
+.result{
+  font-weight: bold;
+  font-size: 25px;
+
+}
+.score{
+  margin-top: 60px;
+
+}
+.reset{
+  background-color: white;
+  border: none;
+  font-size:25px;
+  padding: 8px 15px;
+  cursor: pointer;
+}
+.score{
+  size: 170px;
+
+  
+
+}
